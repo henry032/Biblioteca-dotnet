@@ -9,6 +9,8 @@
     <AssemblyName>BibliotecaApp</AssemblyName>
     <RootNamespace>BibliotecaApp</RootNamespace>
     <Version>1.0.0</Version>
+    <Authors>Henry</Authors>
+    <Description>Sistema de inventario para biblioteca</Description>
   </PropertyGroup>
 
 </Project>
